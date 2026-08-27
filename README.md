@@ -25,7 +25,7 @@ This repository allows to :
 
 ### Installation
 
-Run 
+Run
 
     poetry install
 
